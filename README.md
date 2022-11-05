@@ -6,6 +6,7 @@
  
  -Web View-
  ![WebView](src/images/screenshota.jpg)
+ ![WebView](src/images/screenshot2a.jpg)
  
 # Getting Started with Create React App
 
