@@ -5,7 +5,7 @@
  https://naz88taj.github.io/Weather-App/
  
  -Web View-
- ![WebView](src/images/screenshot1a.jpg)
+ ![WebView](src/images/screenshota.jpg)
  
 # Getting Started with Create React App
 
