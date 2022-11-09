@@ -1,6 +1,6 @@
  Web application that helps user to search the Weather. Based on their query it will displays the 7days weather forecast for Detroit MI.
  
- For developing this web app I have used weather.gov api and fetch the data using axios. For developing this app I used React, Typescript, nodejs, axios, css, and API.  I made a bare minimum we can use any api and get the data and can be displayed using React jsx, and can be improve user interface using tailwind, Sass etc. Any one can visit the link which is given below. This app can be seen on different standard screen sizes. 
+ For developing this web app I have used weather.gov api and fetch the data using axios. For developing this app I used React, Typescript, nodejs, axios, css, and weather.gov API.  I made a bare minimum we can use any api and get the data and can be displayed using React jsx, and can be improve user interface using tailwind, Sass etc. Any one can visit the link which is given below. This app can be seen on different standard screen sizes. 
  
  https://naz88taj.github.io/Weather-App/
  
